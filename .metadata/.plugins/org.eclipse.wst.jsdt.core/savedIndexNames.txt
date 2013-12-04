@@ -1,5 +1,0 @@
-INDEX VERSION 1.121+C:\Users\Overfeld\Documents\GitHub\BVIS\.metadata\.plugins\org.eclipse.wst.jsdt.core
-3367074474.index
-2893082806.index
-1386959456.index
-1585368333.index
